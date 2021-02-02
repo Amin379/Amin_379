@@ -1,1 +1,1 @@
-Worker: Java src/MyBot.java
+Worker: java MyBot/src/MyBot.java
